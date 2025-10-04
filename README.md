@@ -224,11 +224,11 @@ Status: PRODUCTION
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wormman91&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wormman91&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BLACK0X80&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BLACK0X80&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wormman91&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=wormman91&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" />
 
 </div>
 
@@ -407,13 +407,13 @@ I exist at the intersection of art and engineering. Through elegant code and sop
 
 <div align="center">
 
-![Profile Views](https://views.igorkowalczyk.dev/api/badge/wormman91?label=PROFILE+VIEWS&color=ff0000&labelColor=0D1117&style=flat)
+![Profile Views](https://views.igorkowalczyk.dev/api/badge/BLACK0X80?label=PROFILE+VIEWS&color=ff0000&labelColor=0D1117&style=flat)
 
-![GitHub Followers](https://img.shields.io/github/followers/wormman91?style=flat&color=ff0000&labelColor=0D1117&logo=github&logoColor=fff)
+![GitHub Followers](https://img.shields.io/github/followers/BLACK0X80?style=flat&color=ff0000&labelColor=0D1117&logo=github&logoColor=fff)
 
-![GitHub Stars](https://img.shields.io/github/stars/wormman91?style=flat&color=ff0000&labelColor=0D1117&logo=github&logoColor=fff)
+![GitHub Stars](https://img.shields.io/github/stars/BLACK0X80?style=flat&color=ff0000&labelColor=0D1117&logo=github&logoColor=fff)
 
-<img src="https://github-profile-trophy.vercel.app/?username=wormman91&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
