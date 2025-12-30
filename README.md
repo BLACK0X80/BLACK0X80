@@ -304,6 +304,11 @@ Impact: INDUSTRY-LEADING
 
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&langs_count=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BLACK0X80&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&layout=compact" width="49%" />
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 
 <br/>
