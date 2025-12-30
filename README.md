@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=Legendary+Software+Architect;Master+of+All+Languages;Building+The+Impossible;Where+Code+Becomes+Art;Architect+of+Digital+Empires;Engineering+The+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=80&lines=Legendary+Software+Architect;Master+of+All+Languages;Building+The+Impossible;Where+Code+Becomes+Art;Architect+of+Digital+Empires;Engineering+The+Future" alt="Typing SVG" />
 
 <br/>
 
@@ -299,13 +299,12 @@ Impact: INDUSTRY-LEADING
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BLACK0X80&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_radius=10" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BLACK0X80&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border_radius=10" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&langs_count=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&langs_count=10" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&langs_count=10" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BLACK0X80&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&layout=compact" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&langs_count=8" width="49%" />
 
 <br/><br/>
 
