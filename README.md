@@ -296,17 +296,17 @@ Impact: INDUSTRY-LEADING
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BLACK0X80&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BLACK0X80&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border_radius=10" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BLACK0X80&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_radius=10)](https://github.com/BLACK0X80)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BLACK0X80&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border_radius=10)](https://github.com/BLACK0X80)
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACK0X80&theme=radical" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&langs_count=8)](https://github.com/BLACK0X80)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true)](https://github.com/BLACK0X80)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+[![Trophy](https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/BLACK0X80)
 
 <br/>
 
