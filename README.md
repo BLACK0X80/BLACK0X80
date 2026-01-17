@@ -24,6 +24,8 @@
 
 ## WHO AM I?
 
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 ```python
 class BLACK:
     def __init__(self):
@@ -32,36 +34,23 @@ class BLACK:
         self.location = "Digital Universe"
         self.power_level = float('inf')
         self.expertise = {
-            "Software Architecture": "Scalable Systems, Microservices, Cloud Native, Distributed Computing",
-            "Full-Stack Development": "Frontend to Backend to DevOps to Infrastructure",
-            "Performance Engineering": "Optimization, Algorithms, System Design, Zero-Latency Systems",
-            "UI/UX Mastery": "Beautiful Interfaces, Smooth Experiences, Pixel-Perfect Design",
-            "AI/ML Integration": "Smart Applications, Neural Networks, Deep Learning, Computer Vision"
+            "Software Architecture": "Scalable Systems, Microservices, Cloud Native",
+            "Full-Stack Development": "Frontend to Backend to DevOps",
+            "Performance Engineering": "Optimization, Algorithms, System Design",
+            "UI/UX Mastery": "Beautiful Interfaces, Smooth Experiences",
+            "AI/ML Integration": "Smart Applications, Neural Networks"
         }
         
     def philosophy(self):
         return """
-        ╔══════════════════════════════════════════════════════════════╗
-        ║  "Code is poetry written in logic"                          ║
-        ║  "Every bug is a lesson, every feature is an art"           ║
-        ║  "The best code is the code that writes itself"             ║
-        ║  "I don't just solve problems, I eliminate them"            ║
-        ║  "Where others see limits, I see opportunities"             ║
-        ╚══════════════════════════════════════════════════════════════╝
+        ╔══════════════════════════════════════════════════════╗
+        ║  "Code is poetry written in logic"                  ║
+        ║  "Every bug is a lesson, every feature is an art"   ║
+        ║  "The best code is the code that writes itself"     ║
+        ║  "I don't just solve problems, I eliminate them"    ║
+        ║  "Where others see limits, I see opportunities"     ║
+        ╚══════════════════════════════════════════════════════╝
         """
-        
-    def current_mission(self):
-        return [
-            "Building next-generation applications that redefine industries",
-            "Architecting scalable cloud solutions that handle billions of requests",
-            "Optimizing performance to break theoretical limits",
-            "Creating mind-blowing user experiences that leave lasting impressions",
-            "Solving complex problems that others deem impossible",
-            "Pushing the boundaries of what's possible in software engineering"
-        ]
-        
-    def manifesto(self):
-        return "I don't just write code. I architect digital empires."
 ```
 
 <div align="center">
@@ -296,6 +285,12 @@ Impact: INDUSTRY-LEADING
 
 <br/><br/>
 
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACK0X80&theme=radical)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BLACK0X80&theme=radical) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BLACK0X80&theme=radical)
+
+<br/><br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=BLACK0X80&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_radius=10&cache_seconds=1800)
 
 ![](https://github-readme-streak-stats-salesp07.vercel.app/?user=BLACK0X80&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border_radius=10)
@@ -303,8 +298,6 @@ Impact: INDUSTRY-LEADING
 <br/><br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_radius=10&langs_count=8&cache_seconds=1800)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACK0X80&theme=radical)
 
 <br/><br/>
 
@@ -318,78 +311,39 @@ Impact: INDUSTRY-LEADING
 
 ---
 
-## DEVELOPMENT TOOLKIT
+## CONNECT WITH ME
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br><br>
 
-### FRONTEND MASTERY
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=282c34)](https://t.me/EIPDZG)
 
-**Modern Web Applications**
-- React.js & Next.js Ecosystem
-- Vue.js & Nuxt.js Framework
-- Angular Platform
-- Svelte & SvelteKit
-- Tailwind CSS & Styled Components
-- Three.js & WebGL Graphics
-- Progressive Web Apps
-- Responsive Design Excellence
+<br/>
 
-</td>
-<td width="50%">
+<a href="https://t.me/EIPDZG">
+<img src="https://i.pinimg.com/736x/09/df/7c/09df7c8e6f599344d77a1aa490ded6b1.jpg" alt="Telegram" width="150"/>
+</a>
+<br/>
+<sub><strong>TELEGRAM: @EIPDZG</strong></sub>
 
-### BACKEND EXCELLENCE
+<br/><br/>
 
-**High-Performance Services**
-- Node.js & Express Framework
-- FastAPI & Django Python
-- Go with Gin & Fiber
-- .NET Core & ASP.NET
-- Spring Boot Java
-- GraphQL & REST APIs
-- Microservices Architecture
-- Real-time WebSocket Systems
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### DATABASE WIZARDRY
-
-**Data Storage Solutions**
-- PostgreSQL & MySQL
-- MongoDB & Cassandra
-- Redis & Memcached
-- Elasticsearch & Solr
-- Neo4j Graph Database
-- TimescaleDB
-- Database Optimization
-- Distributed Data Systems
-
-</td>
-<td width="50%">
-
-### DEVOPS & AUTOMATION
-
-**Infrastructure & CI/CD**
-- Docker & Kubernetes
-- Jenkins & GitHub Actions
-- Terraform & Ansible
-- AWS, Azure, GCP
-- Monitoring & Logging
-- Performance Tuning
-- Security Best Practices
-- Scalability Engineering
-
-</td>
-</tr>
-</table>
+### Open for Collaboration & Consulting
 
 </div>
+
+| Service Type | Details |
+|-------------|---------|
+| **Open Source Projects** | Contributing to impactful community projects |
+| **Freelance Development** | Available for challenging development projects |
+| **Technical Consulting** | Architecture review and optimization |
+| **Code Review & Mentorship** | Helping developers level up their skills |
+| **System Architecture** | Designing scalable and robust systems |
+| **Performance Optimization** | Making applications faster and more efficient |
+| **Learning & Growing** | Always open to new opportunities and challenges |
 
 ---
 
@@ -409,29 +363,6 @@ Impact: INDUSTRY-LEADING
 | **Performance Optimization** | LEGENDARY | Code Optimization, Caching, Load Balancing, Profiling |
 | **Algorithm Design** | LEGENDARY | Data Structures, Complexity Analysis, Problem Solving |
 | **Security Engineering** | LEGENDARY | Application Security, Cryptography, Secure Architecture |
-
-</div>
-
----
-
-## ACHIEVEMENTS & CONTRIBUTIONS
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<br/><br/>
-
-| Achievement | Details |
-|------------|---------|
-| **PROJECTS COMPLETED** | Multiple Production-Grade Applications |
-| **OPEN SOURCE** | Active Contributor & Repository Maintainer |
-| **CODE QUALITY** | Clean, Documented, Well-Tested Code |
-| **CONTINUOUS LEARNING** | Always Exploring Cutting-Edge Technologies |
-| **PROBLEM SOLVING** | Complex Challenges & Elegant Solutions |
-| **COLLABORATION** | Team Projects, Code Reviews, Mentorship |
-| **BEST PRACTICES** | Following and Setting Industry Standards |
-| **INNOVATION** | Creating New Solutions & Methodologies |
 
 </div>
 
@@ -473,63 +404,6 @@ I exist at the intersection of art and engineering. Through elegant code and sop
 
 ---
 
-## CONNECT WITH ME
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br><br>
-
-<a href="https://t.me/EIPDZG">
-<img src="https://i.pinimg.com/736x/09/df/7c/09df7c8e6f599344d77a1aa490ded6b1.jpg" alt="Telegram" width="150"/>
-</a>
-<br/>
-<sub><strong>TELEGRAM</strong></sub>
-<br/>
-<sub>@EIPDZG</sub>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
-
-### Open for Collaboration & Consulting
-
-| Service Type | Details |
-|-------------|---------|
-| **Open Source Projects** | Contributing to impactful community projects |
-| **Freelance Development** | Available for challenging development projects |
-| **Technical Consulting** | Architecture review and optimization |
-| **Code Review & Mentorship** | Helping developers level up their skills |
-| **System Architecture** | Designing scalable and robust systems |
-| **Performance Optimization** | Making applications faster and more efficient |
-| **Learning & Growing** | Always open to new opportunities and challenges |
-
-</div>
-
----
-
-## WHAT I BRING TO THE TABLE
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br><br>
-
-| Skills & Experience |
-|---------------------|
-| Strong Programming Fundamentals Across Multiple Languages |
-| Full-Stack Development Knowledge & Expertise |
-| Clean, Maintainable, and Well-Documented Code |
-| Strong Problem-Solving Mindset & Analytical Thinking |
-| Quick Learner & Highly Adaptable to New Technologies |
-| Excellent Team Collaboration & Communication Skills |
-| Passionate About Technology & Innovation |
-| Committed to Continuous Growth & Excellence |
-| Deep Understanding of Software Architecture |
-| Experience with Scalable System Design |
-
-</div>
-
----
-
 ## PROFILE STATISTICS
 
 <div align="center">
@@ -541,10 +415,6 @@ I exist at the intersection of art and engineering. Through elegant code and sop
 ![GitHub Followers](https://img.shields.io/github/followers/BLACK0X80?style=for-the-badge&color=ff0000&labelColor=0D1117&logo=github&logoColor=fff)
 
 ![GitHub Stars](https://img.shields.io/github/stars/BLACK0X80?style=for-the-badge&color=ff0000&labelColor=0D1117&logo=github&logoColor=fff)
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
