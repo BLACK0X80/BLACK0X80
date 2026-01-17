@@ -449,7 +449,7 @@ I exist at the intersection of art and engineering. Through elegant code and sop
 
 ### *"Dream it. Build it. Dominate it. Repeat."*
 
-**© 2025 BLACK | Building The Future, One Line at a Time**
+**© 2026 BLACK | Building The Future, One Line at a Time**
 
 <sub>Powered by passion, precision, and the relentless pursuit of perfection</sub>
 
