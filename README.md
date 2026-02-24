@@ -1,20 +1,17 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FF0000&height=120&duration=3000&center=true&lines=BLACK0X80;%23include+%3Cq8x.h%3E+%7C+int+main()%7BFs();%2F*uid%3D0*%2F%7D;Systems+Programmer+%7C+Kernel+Developer+%7C+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Writing+code+that+runs+closer+to+the+metal+than+your+OS">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&width=800&color=%23FF0000&height=100&duration=3000&center=true&lines=BLACK0X80;%23include+%3Cq8x.h%3E+%7C+int+main()%7BFs();%2F*uid%3D0*%2F%7D;Systems+Programmer+%7C+Kernel+Developer+%7C+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Writing+code+that+runs+closer+to+the+metal+than+your+OS">
 
 <!--🖼️GREETING-->
 <p align="center">
 <img src="https://media.giphy.com/media/DFu7j1d1AQbaE/giphy.gif" height="240" width="370">
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--🖼️ILOVEOPENSOURCE-->
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+<hr>
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-[![Spotify](https://img.shields.io/badge/Now_Playing-Nothing,_just_debugging-1DB954?style=flat-square&logo=spotify&logoColor=white)]()
+<img src="https://img.shields.io/badge/Now_Playing-Kernel_Panic-1DB954?style=flat-square&logo=spotify&logoColor=white&color=0D1117&labelColor=FF0000">
 
 <!--🦜DIVIDER / HANS LANDA-->
 <p align="center">
@@ -30,7 +27,7 @@
 
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
@@ -97,11 +94,10 @@
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+<!--📊💬STATTITLE-->
+<h2 align="center">🔥 PROFILE METRICS</h2>
 
 <!--🖼️OCTOCAT-->
 <p align="center">
@@ -156,9 +152,8 @@
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph-BLACK0X80s-projects.vercel.app/graph?username=BLACK0X80&theme=react-dark&hide_border=true&color=FF0000&line=FF0000&point=0D1117" width="100%">
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<!--🐍💬SNAKETITLE-->
+<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/snake/github-snake-dark.svg" width="100%">
@@ -173,11 +168,10 @@
 </details>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
-<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+<!--😂💬JOKETITLE-->
+<h2 align="center">🃏 TECH HUMOR</h2>
 
 <!--🤣LAUGHING / HANS LANDA-->
 <p align="center">
@@ -187,9 +181,8 @@
 <p align="center">
 <img src="https://readme-jokes-BLACK0X80s-projects.vercel.app/api" alt="Jokes Card" width="400">
 
-<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
+<!--💬QUOTESTITLE-->
+<h2 align="center">🧠 PROGRAMMING WISDOM</h2>
 
 <!--🍷INTENSE / HANS LANDA-->
 <p align="center">
@@ -203,9 +196,8 @@
 <p align="center">
 <img src="https://github-readme-daily-quotes-BLACK0X80s-projects.vercel.app/api?theme=radical&category=programming&border=true&border_color=FF0000&border_width=3&border_radius=40&font=new_rocker"><br><br>
 
-<!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+<!--💬🃏MEMESTITLE-->
+<h2 align="center">🤖 DEV MEMES</h2>
 
 <!--😻OBSERVING / HANS LANDA-->
 <p align="center">
@@ -216,16 +208,15 @@
 <img src="https://subreddit-memes-BLACK0X80s-projects.vercel.app/api/meme" width="400px"/>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
 > *"You know what I say? It's the little details that are vital.*
 > *Little things make big things happen."*
 >
 > — Hans Landa, a man who understood clean code before it existed.
 
-<!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
+<!--💬FUNTITLE-->
+<h2 align="center">♟️ INTERACTIVE ZONE</h2>
 
 <!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess --> 
  <h4 align="center">
@@ -396,7 +387,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://raw.githubusercontent.com/BLACK0X80/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 <p align="center">
 
 <!--🐱CAT -> HANS LANDA THEME-->
@@ -404,8 +395,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://media.giphy.com/media/PZysW4DEDi2fS/giphy.gif" width="150">
 
 <!--🤔INTERESTTITLE-->
-<p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
+<h2 align="center">⚡ TECH STACK & INTERESTS</h2>
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
@@ -438,7 +428,7 @@ Join the Word Cloud Board :cloud: :pencil2:
  
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <h4 align="left">
