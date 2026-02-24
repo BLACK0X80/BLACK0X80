@@ -1,0 +1,77 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #050505; stroke: #ff0000; stroke-width: 2; }
+      .grid { stroke: rgba(255, 0, 0, 0.1); stroke-width: 1; shape-rendering: crispEdges; }
+      .glow-text-title { fill: #ff0000; font-family: 'Courier New', monospace; font-weight: bold; font-size: 26px; text-shadow: 0 0 10px #ff0000; letter-spacing: 2px; }
+      .glow-text-sub { fill: #ffffff; font-family: 'Courier New', monospace; font-size: 14px; text-shadow: 0 0 5px #ffffff; letter-spacing: 2px; }
+      .glow-text-tiny { fill: #aa0000; font-family: 'Courier New', monospace; font-size: 10px; }
+      .cyber-line { fill: none; stroke: #ff0000; stroke-width: 2; opacity: 0.8; }
+      
+      @keyframes pulseNode { 0% { r: 3; fill: #440000; } 50% { r: 6; fill: #ff0000; filter: drop-shadow(0 0 5px #ff0000); } 100% { r: 3; fill: #440000; } }
+      .node { animation: pulseNode 3s infinite; }
+      .node1 { animation-delay: 0s; }
+      .node2 { animation-delay: 0.4s; }
+      .node3 { animation-delay: 0.8s; }
+      .node4 { animation-delay: 1.2s; }
+      .node5 { animation-delay: 1.6s; }
+      .node6 { animation-delay: 2.0s; }
+      .node7 { animation-delay: 2.4s; }
+      
+      @keyframes scan { 0% { transform: translateY(-100%); } 100% { transform: translateY(200%); } }
+      .scanline { fill: rgba(255, 0, 0, 0.15); animation: scan 4s linear infinite; }
+    </style>
+    <pattern id="grid-pattern" width="30" height="30" patternUnits="userSpaceOnUse">
+      <rect width="30" height="30" fill="none" class="grid" />
+      <path d="M 30 0 L 0 0 0 30" fill="none" class="grid" />
+    </pattern>
+  </defs>
+
+  <g transform="translate(10, 10) scale(0.975)">
+    <!-- Background Panel -->
+    <rect width="800" height="180" rx="4" class="bg" />
+    <rect width="800" height="180" rx="4" fill="url(#grid-pattern)" />
+    
+    <!-- Animated Scanline -->
+    <rect width="800" height="40" class="scanline" />
+
+    <!-- Corner Frames -->
+    <path d="M 0 30 L 0 0 L 30 0" class="cyber-line" />
+    <path d="M 800 30 L 800 0 L 770 0" class="cyber-line" />
+    <path d="M 0 150 L 0 180 L 30 180" class="cyber-line" />
+    <path d="M 800 150 L 800 180 L 770 180" class="cyber-line" />
+    
+    <!-- Cyber Geometric Core -->
+    <!-- Draw 7 nodes connected by lines -->
+    <g transform="translate(400, 90)">
+      <!-- Connections -->
+      <path d="M -300 0 L -200 30 L -100 -20 L 0 40 L 100 -30 L 200 20 L 300 0" fill="none" stroke="rgba(255, 0, 0, 0.3)" stroke-width="2" />
+      <path d="M -300 0 L 0 -70 L 300 0 L 0 70 Z" fill="none" stroke="rgba(255, 0, 0, 0.1)" stroke-width="1" />
+
+      <!-- Nodes representing the 7 projects -->
+      <circle cx="-300" cy="0" class="node node1" />
+      <circle cx="-200" cy="30" class="node node2" />
+      <circle cx="-100" cy="-20" class="node node3" />
+      <circle cx="0" cy="40" class="node node4" />
+      <circle cx="100" cy="-30" class="node node5" />
+      <circle cx="200" cy="20" class="node node6" />
+      <circle cx="300" cy="0" class="node node7" />
+    </g>
+
+    <!-- Center Text Display -->
+    <rect x="130" y="55" width="540" height="70" fill="#000" stroke="#ff0000" stroke-width="1" opacity="0.9"/>
+    <text x="400" y="85" text-anchor="middle" class="glow-text-title">ARCHITECT OF SEVEN MASTERPIECES</text>
+    <text x="400" y="110" text-anchor="middle" class="glow-text-sub">[ SYS.OVERRIDE :: ALL 7 CORES ONLINE ]</text>
+    
+    <!-- Tech data overlays -->
+    <text x="20" y="170" class="glow-text-tiny">UID: BLACK0X80 // STATUS: IMMORTALIZED</text>
+    <text x="590" y="20" class="glow-text-tiny">SECTOR: OMEGA // ENCRYPTION: SECURE</text>
+
+    <!-- decorative side bars -->
+    <rect x="20" y="40" width="4" height="100" fill="#ff0000" opacity="0.5" />
+    <rect x="28" y="60" width="2" height="60" fill="#ff0000" opacity="0.8" />
+    
+    <rect x="776" y="40" width="4" height="100" fill="#ff0000" opacity="0.5" />
+    <rect x="770" y="60" width="2" height="60" fill="#ff0000" opacity="0.8" />
+  </g>
+</svg>

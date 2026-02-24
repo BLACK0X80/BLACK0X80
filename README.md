@@ -546,7 +546,7 @@ fn main() {
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/landa_quote.svg" alt="Landa Masterpiece">
+  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/seven_projects.svg" alt="Architect of Seven Masterpieces">
 </div>
 
 <!--🧱ANIMATED CODE LINE-->
