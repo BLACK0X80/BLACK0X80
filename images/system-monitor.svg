@@ -1,0 +1,85 @@
+<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; stroke: #ff0000; stroke-width: 2; }
+      .text-glow { fill: #ff0000; font-family: 'Courier New', monospace; font-weight: bold; font-size: 24px; text-shadow: 0 0 5px #ff0000; }
+      .text-base { fill: #ffffff; font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold; }
+      .text-value { fill: #ff0000; font-family: 'Courier New', monospace; font-size: 16px; }
+      .scanline { fill: rgba(255, 0, 0, 0.1); animation: scan 4s linear infinite; }
+      .grid { stroke: rgba(255, 0, 0, 0.15); stroke-width: 1; shape-rendering: crispEdges; }
+      .pulse-obj { fill: #ff0000; animation: blink 2s ease-in-out infinite alternate; }
+      
+      @keyframes scan { 0% { transform: translateY(-300%); } 100% { transform: translateY(800%); } }
+      @keyframes blink { 0% { opacity: 0.3; } 100% { opacity: 1; } }
+      
+      .sys-bar { fill: none; stroke: #ff0000; stroke-width: 2; stroke-dasharray: 200; animation: draw 4s ease forwards infinite; }
+      @keyframes draw { 0% { stroke-dashoffset: 200; } 50% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: 0; } }
+      
+      .glitch-text { animation: g_anim 3s infinite; }
+      @keyframes g_anim { 0%, 9%, 11%, 19%, 21%, 69%, 71%, 100% { opacity: 1; transform: skewX(0deg); } 10%, 20%, 70% { opacity: 0; transform: skewX(-20deg); } }
+    </style>
+    
+    <pattern id="grid-pattern" width="25" height="25" patternUnits="userSpaceOnUse">
+      <rect width="25" height="25" fill="none" class="grid" />
+      <path d="M 25 0 L 0 0 0 25" fill="none" class="grid" />
+    </pattern>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#800000"/>
+      <stop offset="100%" stop-color="#ff0000"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="scale(0.95) translate(20, 10)">
+    <!-- Base Panel -->
+    <rect width="800" height="300" rx="8" class="bg" />
+    <rect width="800" height="300" rx="8" fill="url(#grid-pattern)" />
+    <rect width="800" height="25" class="scanline" />
+    
+    <!-- Header Block -->
+    <path d="M 0 40 L 250 40 L 280 10 L 800 10" fill="none" stroke="#ff0000" stroke-width="2" />
+    <polygon points="0,0 250,0 290,40 0,40" fill="#ff0000" opacity="0.2" />
+    <text x="20" y="25" class="text-glow glitch-text">BLACK0X80 :: SYSTEM_CORE_MONITOR</text>
+
+    <!-- LEFT COLUMN -->
+    <g transform="translate(30, 80)">
+      <text x="0" y="0" class="text-base">OS:</text><text x="160" y="0" class="text-value">Arch Linux x86_64</text>
+      <text x="0" y="30" class="text-base">Kernel:</text><text x="160" y="30" class="text-value">6.7.4-arch1-1</text>
+      <text x="0" y="60" class="text-base">Uptime:</text><text x="160" y="60" class="text-value">99.999% uptime</text>
+      <text x="0" y="90" class="text-base">Threat Level:</text><text x="160" y="90" class="text-value glitch-text">OMEGA (MAXIMUM)</text>
+      <text x="0" y="120" class="text-base">Active Exploits:</text><text x="160" y="120" class="text-value">[ ENABLED ]</text>
+      <text x="0" y="150" class="text-base">Coffee Level:</text><text x="160" y="150" class="text-value">CRITICAL</text>
+      <text x="0" y="180" class="text-base">Bugs Remaining:</text><text x="160" y="180" class="text-value">0 (Annihilated)</text>
+    </g>
+
+    <!-- MEMORY PROG BAR -->
+    <g transform="translate(440, 80)">
+      <text x="0" y="0" class="text-base">RAM Allocation:</text>
+      <rect x="0" y="15" width="300" height="15" fill="#111" stroke="#444" stroke-width="1" />
+      <rect x="2" y="17" width="280" height="11" fill="url(#grad)" class="pulse-obj" />
+      <text x="310" y="28" class="text-value">87%</text>
+
+      <text x="0" y="55" class="text-base">CPU Load:</text>
+      <rect x="0" y="70" width="300" height="15" fill="#111" stroke="#444" stroke-width="1" />
+      <rect x="2" y="72" width="120" height="11" fill="url(#grad)" class="pulse-obj" />
+      <text x="310" y="83" class="text-value">15%</text>
+      
+      <text x="0" y="115" class="text-base">Network:</text>
+      <rect x="0" y="130" width="300" height="15" fill="#111" stroke="#444" stroke-width="1" />
+      <rect x="2" y="132" width="296" height="11" fill="url(#grad)" class="pulse-obj" />
+      <text x="310" y="143" class="text-value">10Gbps</text>
+    </g>
+
+    <!-- Radar / Decor Element -->
+    <g transform="translate(650, 240)">
+      <circle cx="0" cy="0" r="30" fill="none" stroke="#ff0000" stroke-width="1" stroke-dasharray="2 4" class="pulse-obj" />
+      <circle cx="0" cy="0" r="20" fill="none" stroke="#ff0000" stroke-width="2" />
+      <path d="M 0 -30 L 0 30 M -30 0 L 30 0" stroke="rgba(255,0,0,0.5)" stroke-width="1" />
+      <circle cx="15" cy="-15" r="3" fill="#ff0000" class="pulse-obj" />
+    </g>
+
+    <!-- terminal prompt bottom -->
+    <text x="30" y="280" class="text-base">root@BLACK0X80:~#</text>
+    <text x="210" y="280" class="text-value">./deploy_payload.sh &amp;&amp; tail -f /var/log/syslog</text>
+    <rect x="650" y="265" width="10" height="18" fill="#ff0000" class="pulse-obj" />
+  </g>
+</svg>

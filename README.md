@@ -495,24 +495,7 @@ fn main() {
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> SYSTEM STATUS <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" />
 </h2>
 <p align="center">
-
-```properties
-╔══════════════════════════════════════════════════════════╗
-║                    BLACK0X80 — SYSTEM MONITOR            ║
-╠══════════════════════════════════════════════════════════╣
-║  ██████████████████████████░░░░  OS: Arch Linux x86_64  ║
-║  [██████████████████████████] 87%  Kernel: 6.7.4-arch1   ║
-║                                          Shell: zsh 5.9  ║
-║  ⚡ UPTIME ──────── 99.97%               DE: Hyprland    ║
-║  🔒 THREAT LEVEL ── MAXIMUM              WM: Wayland     ║
-║  🔥 CODE COMMITS ── ∞                    Editor: Neovim  ║
-║  ☕ COFFEE LEVEL ── CRITICAL              Font: JetBrains ║
-║  🎯 BUGS FIXED ──── All of them           Terminal: Kitty ║
-╠══════════════════════════════════════════════════════════╣
-║  root@BLACK0X80:~# echo "All systems operational" ✓     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
+<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/system-monitor.svg" alt="Epic System Monitor" width="100%">
 </p>
 
 <!--🔗 CONNECT WITH ME -->
