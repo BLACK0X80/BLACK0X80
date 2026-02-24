@@ -546,12 +546,8 @@ fn main() {
 <br>
 
 <div align="center">
-╔═══════════════════════════════════════════════════════════════════╗
-║  "I've been looking forward to seeing your code for a long time." ║
-║                                                                   ║
-║                                         — Hans Landa              ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/landa_quote.svg" alt="Landa Masterpiece">
+</div>
 
 <!--🧱ANIMATED CODE LINE-->
 <p align="center">
