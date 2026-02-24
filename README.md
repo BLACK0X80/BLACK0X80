@@ -424,13 +424,11 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
-<!--⚡TECH STACK - skillicons.dev -->
+<!--⚡CYBER OPERATIONAL STACK -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,bash,linux,vim,neovim,docker&theme=dark" />
+  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/cyber_stack.svg?v=2" alt="Cyber Operational Stack" width="800">
 </p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,assembly,typescript,nodejs,redis,postgres,aws&theme=dark" />
-</p>
+
 </h4>
 
 <!--💻CURRENTLY WORKING ON-->

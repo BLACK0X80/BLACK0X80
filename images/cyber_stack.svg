@@ -1,0 +1,73 @@
+<svg width="800" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #070707; stroke: #ff0000; stroke-width: 2; }
+      .grid { stroke: rgba(255, 0, 0, 0.1); stroke-width: 1; shape-rendering: crispEdges; }
+      
+      .text-glow { fill: #ff0000; font-family: 'Courier New', monospace; font-weight: bold; font-size: 20px; text-shadow: 0 0 8px #ff0000; letter-spacing: 2px; }
+      .text-sub { fill: #aa0000; font-family: 'Courier New', monospace; font-weight: bold; font-size: 14px; letter-spacing: 1px; }
+      
+      .tech-box { fill: #000; stroke: #ff0000; stroke-width: 1.5; rx: 3; }
+      .tech-box-light { stroke: #cc0000; fill: #110000; }
+      .tech-text { fill: #fff; font-family: 'Arial', sans-serif; font-weight: bold; font-size: 14px; text-shadow: 0 0 5px #ff0000; }
+      .tech-text-small { font-size: 11px; }
+      
+      .scanline { fill: rgba(255, 0, 0, 0.1); animation: scan 4s linear infinite; }
+      @keyframes scan { 0% { transform: translateY(-100%); } 100% { transform: translateY(220%); } }
+      
+      @keyframes pulse { 0% { filter: drop-shadow(0 0 2px #ff0000); } 100% { filter: drop-shadow(0 0 8px #ff0000); } }
+      .pulse-obj { animation: pulse 2s infinite alternate; }
+    </style>
+    <pattern id="grid-pattern" width="15" height="15" patternUnits="userSpaceOnUse">
+      <rect width="15" height="15" fill="none" class="grid" />
+    </pattern>
+  </defs>
+
+  <g transform="translate(10, 10) scale(0.975)">
+    <!-- Base Panel -->
+    <rect width="800" height="200" rx="4" class="bg" />
+    <rect width="800" height="200" rx="4" fill="url(#grid-pattern)" />
+    <rect width="800" height="30" class="scanline" />
+
+    <!-- Corner Accents -->
+    <path d="M 0 20 L 0 0 L 20 0" fill="none" stroke="#ff0000" stroke-width="3" />
+    <path d="M 800 20 L 800 0 L 780 0" fill="none" stroke="#ff0000" stroke-width="3" />
+    <path d="M 0 180 L 0 200 L 20 200" fill="none" stroke="#ff0000" stroke-width="3" />
+    <path d="M 800 180 L 800 200 L 780 200" fill="none" stroke="#ff0000" stroke-width="3" />
+    
+    <!-- Title -->
+    <text x="400" y="32" text-anchor="middle" class="text-glow">[ CYBER // OPERATIONAL_STACK ]</text>
+    <line x1="220" y1="42" x2="580" y2="42" stroke="#ff0000" stroke-width="1" opacity="0.5" />
+
+    <!-- ROW 1 Tech Stack Boxes (10 items) -->
+    <!-- Center the 10 items in 800px mapping to x coords from 30 to 750 roughly -->
+    <g transform="translate(25, 60)">
+      <g transform="translate(0, 0)" class="pulse-obj"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">C</text></g>
+      <g transform="translate(75, 0)" class="pulse-obj" style="animation-delay: 0.1s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">C++</text></g>
+      <g transform="translate(150, 0)" class="pulse-obj" style="animation-delay: 0.2s;"><rect width="65" height="35" class="tech-box tech-box-light" /><text x="32" y="23" text-anchor="middle" class="tech-text">RUST</text></g>
+      <g transform="translate(225, 0)" class="pulse-obj" style="animation-delay: 0.3s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">PYTHON</text></g>
+      <g transform="translate(300, 0)" class="pulse-obj" style="animation-delay: 0.4s;"><rect width="65" height="35" class="tech-box tech-box-light" /><text x="32" y="23" text-anchor="middle" class="tech-text">GO</text></g>
+      <g transform="translate(375, 0)" class="pulse-obj" style="animation-delay: 0.5s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">BASH</text></g>
+      <g transform="translate(450, 0)" class="pulse-obj" style="animation-delay: 0.6s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">LINUX</text></g>
+      <g transform="translate(525, 0)" class="pulse-obj" style="animation-delay: 0.7s;"><rect width="65" height="35" class="tech-box tech-box-light" /><text x="32" y="23" text-anchor="middle" class="tech-text">VIM</text></g>
+      <g transform="translate(600, 0)" class="pulse-obj" style="animation-delay: 0.8s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">NVIM</text></g>
+      <g transform="translate(675, 0)" class="pulse-obj" style="animation-delay: 0.9s;"><rect width="65" height="35" class="tech-box tech-box-light" /><text x="32" y="23" text-anchor="middle" class="tech-text">DOCKER</text></g>
+    </g>
+
+    <!-- ROW 2 Tech Stack Boxes (10 items) -->
+    <g transform="translate(25, 110)">
+      <g transform="translate(0, 0)" class="pulse-obj" style="animation-delay: 1.0s;"><rect width="65" height="35" class="tech-box tech-box-light" /><text x="32" y="23" text-anchor="middle" class="tech-text">GIT</text></g>
+      <g transform="translate(75, 0)" class="pulse-obj" style="animation-delay: 1.1s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">GITHUB</text></g>
+      <g transform="translate(150, 0)" class="pulse-obj" style="animation-delay: 1.2s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text tech-text-small">ACTIONS</text></g>
+      <g transform="translate(225, 0)" class="pulse-obj" style="animation-delay: 1.3s;"><rect width="65" height="35" class="tech-box tech-box-light" /><text x="32" y="23" text-anchor="middle" class="tech-text">VSCODE</text></g>
+      <g transform="translate(300, 0)" class="pulse-obj" style="animation-delay: 1.4s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">ASM</text></g>
+      <g transform="translate(375, 0)" class="pulse-obj" style="animation-delay: 1.5s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">TS</text></g>
+      <g transform="translate(450, 0)" class="pulse-obj" style="animation-delay: 1.6s;"><rect width="65" height="35" class="tech-box tech-box-light" /><text x="32" y="23" text-anchor="middle" class="tech-text">NODEJS</text></g>
+      <g transform="translate(525, 0)" class="pulse-obj" style="animation-delay: 1.7s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text">REDIS</text></g>
+      <g transform="translate(600, 0)" class="pulse-obj" style="animation-delay: 1.8s;"><rect width="65" height="35" class="tech-box" /><text x="32" y="23" text-anchor="middle" class="tech-text tech-text-small">POSTGRES</text></g>
+      <g transform="translate(675, 0)" class="pulse-obj" style="animation-delay: 1.9s;"><rect width="65" height="35" class="tech-box tech-box-light" /><text x="32" y="23" text-anchor="middle" class="tech-text">AWS</text></g>
+    </g>
+    
+    <text x="400" y="180" text-anchor="middle" class="text-sub">MAINFRAME INITIALIZED // SYSTEM.READY</text>
+  </g>
+</svg>
