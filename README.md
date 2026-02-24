@@ -442,16 +442,8 @@ fn main() {
 </p>
 
 <!--🔗 CONNECT WITH ME -->
-<h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
 <a href="https://github.com/BLACK0X80"><img src="https://img.shields.io/badge/GitHub-BLACK0X80-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
-<a href="mailto:black0x80@proton.me"><img src="https://img.shields.io/badge/ProtonMail-Contact_Me-FF0000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0D1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-BLACK%230x80-FF0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"/></a>
-</p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Telegram-@BLACK0X80-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-BLACK-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackTheBox-BLACK0X80-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117"/></a>
 </p>
 
 <!--🛡️THREAT LEVEL QUOTE-->
