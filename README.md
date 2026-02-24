@@ -506,41 +506,28 @@ fn main() {
 
 </div>
 
-<!--🖼️⭐🔱STARRED/FORK-->
-<h4 align="right">
- 
-<table>
-  <tr>
-   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </tr>
-  <tr>
-    <td><p align="center"><a href="https://github.com/BLACK0X80?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/BLACK0X80/BLACK0X80/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
-  </tr>
- </table>
- 
-<!--📏LINE-->
-<p align="center">
-<hr>
+<br>
 
-<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
-<h4 align="left">
-</h4>
- 
-╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
-<h4>
-<h4 align="left">  
- 
-╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
-<h4>
+<!--🖼️⭐🔱STARRED/FORK AND THEME-->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/BLACK0X80?tab=stars"><img src="https://img.shields.io/badge/⭐_STARRED-REPOS-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/BLACK0X80/BLACK0X80/edit/main/README.md"><img src="https://img.shields.io/badge/🔱_FORK-PROFILE-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/settings/appearance"><img src="https://img.shields.io/badge/👀_THEME-DARK-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!--� ROACH & 🕷️ SPIDER-->
-<p align="left">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40">
- 
-```text
+<br>
+
+<div align="center">
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  "I've been looking forward to seeing your code for a long time." ║
 ║                                                                   ║
