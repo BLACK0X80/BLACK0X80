@@ -1,0 +1,81 @@
+<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #070707; stroke: #ff0000; stroke-width: 2; }
+      .grid { stroke: rgba(255, 0, 0, 0.1); stroke-width: 1; shape-rendering: crispEdges; }
+      
+      .text-glow { fill: #ff0000; font-family: 'Courier New', monospace; font-weight: bold; font-size: 22px; text-shadow: 0 0 8px #ff0000; letter-spacing: 2px; }
+      .text-sub { fill: #aa0000; font-family: 'Courier New', monospace; font-weight: bold; font-size: 14px; letter-spacing: 1px; }
+      
+      .tech-box { fill: #000; stroke: #ff0000; stroke-width: 2; rx: 4; }
+      .tech-text { fill: #fff; font-family: 'Arial', sans-serif; font-weight: bold; font-size: 18px; text-shadow: 0 0 5px #ff0000; }
+      
+      .scanline { fill: rgba(255, 0, 0, 0.1); animation: scan 3s linear infinite; }
+      @keyframes scan { 0% { transform: translateY(-100%); } 100% { transform: translateY(150%); } }
+      
+      @keyframes pulse { 0% { filter: drop-shadow(0 0 2px #ff0000); } 100% { filter: drop-shadow(0 0 10px #ff0000); } }
+      .pulse-obj { animation: pulse 2s infinite alternate; }
+    </style>
+    <pattern id="grid-pattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="none" class="grid" />
+    </pattern>
+  </defs>
+
+  <g transform="translate(10, 10) scale(0.975)">
+    <!-- Base Panel -->
+    <rect width="800" height="130" rx="4" class="bg" />
+    <rect width="800" height="130" rx="4" fill="url(#grid-pattern)" />
+    <rect width="800" height="20" class="scanline" />
+
+    <!-- Corner Accents -->
+    <path d="M 0 20 L 0 0 L 20 0" fill="none" stroke="#ff0000" stroke-width="3" />
+    <path d="M 800 20 L 800 0 L 780 0" fill="none" stroke="#ff0000" stroke-width="3" />
+    <path d="M 0 110 L 0 130 L 20 130" fill="none" stroke="#ff0000" stroke-width="3" />
+    <path d="M 800 110 L 800 130 L 780 130" fill="none" stroke="#ff0000" stroke-width="3" />
+    
+    <!-- Title -->
+    <text x="400" y="35" text-anchor="middle" class="text-glow">[ CYBER // WEAPONS_OF_CHOICE ]</text>
+    <line x1="250" y1="45" x2="550" y2="45" stroke="#ff0000" stroke-width="1" opacity="0.5" />
+
+    <!-- Tech Stack Boxes -->
+    <g transform="translate(48, 65)">
+      <!-- C -->
+      <g transform="translate(0, 0)" class="pulse-obj">
+        <rect width="80" height="40" class="tech-box" />
+        <text x="40" y="27" text-anchor="middle" class="tech-text">C</text>
+      </g>
+      <!-- C++ -->
+      <g transform="translate(100, 0)" class="pulse-obj" style="animation-delay: 0.2s;">
+        <rect width="80" height="40" class="tech-box" />
+        <text x="40" y="27" text-anchor="middle" class="tech-text">C++</text>
+      </g>
+      <!-- Rust -->
+      <g transform="translate(200, 0)" class="pulse-obj" style="animation-delay: 0.4s;">
+        <rect width="80" height="40" class="tech-box" />
+        <text x="40" y="27" text-anchor="middle" class="tech-text">RUST</text>
+      </g>
+      <!-- Python -->
+      <g transform="translate(300, 0)" class="pulse-obj" style="animation-delay: 0.6s;">
+        <rect width="80" height="40" class="tech-box" />
+        <text x="40" y="27" text-anchor="middle" class="tech-text">PYTHON</text>
+      </g>
+      <!-- Assembly -->
+      <g transform="translate(400, 0)" class="pulse-obj" style="animation-delay: 0.8s;">
+        <rect width="80" height="40" class="tech-box" />
+        <text x="40" y="27" text-anchor="middle" class="tech-text">ASM</text>
+      </g>
+      <!-- Linux -->
+      <g transform="translate(500, 0)" class="pulse-obj" style="animation-delay: 1.0s;">
+        <rect width="80" height="40" class="tech-box" />
+        <text x="40" y="27" text-anchor="middle" class="tech-text">LINUX</text>
+      </g>
+      <!-- Vim/Neovim -->
+      <g transform="translate(600, 0)" class="pulse-obj" style="animation-delay: 1.2s;">
+        <rect width="80" height="40" class="tech-box" />
+        <text x="40" y="27" text-anchor="middle" class="tech-text">NVIM</text>
+      </g>
+    </g>
+    
+    <text x="400" y="120" text-anchor="middle" class="text-sub">SYS.PROTOCOL :: OPERATIONAL</text>
+  </g>
+</svg>
