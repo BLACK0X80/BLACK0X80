@@ -12,9 +12,12 @@
 <!--📏LINE-->
 <hr>
 
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<!--🎵SPOTIFY -->
 <p align="center">
-<img src="https://img.shields.io/badge/Now_Playing-Kernel_Panic-1DB954?style=flat-square&logo=spotify&logoColor=white&color=0D1117&labelColor=FF0000">
+<a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MOOD-WRITING_EXPLOITS-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/COFFEE-∞-FF0000?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0D1117"/></a>
+</p>
 
 <!--🦜DIVIDER / HANS LANDA-->
 <p align="center">
@@ -406,6 +409,60 @@ fn main() {
 </table>
 </p>
 
+<!--💻SYSTEM STATUS MONITOR-->
+<h2 align="center">🖥️ System Status</h2>
+<p align="center">
+
+```properties
+╔══════════════════════════════════════════════════════════╗
+║                    BLACK0X80 — SYSTEM MONITOR            ║
+╠══════════════════════════════════════════════════════════╣
+║  ██████████████████████████░░░░  OS: Arch Linux x86_64  ║
+║  [██████████████████████████] 87%  Kernel: 6.7.4-arch1   ║
+║                                          Shell: zsh 5.9  ║
+║  ⚡ UPTIME ──────── 99.97%               DE: Hyprland    ║
+║  🔒 THREAT LEVEL ── MAXIMUM              WM: Wayland     ║
+║  🔥 CODE COMMITS ── ∞                    Editor: Neovim  ║
+║  ☕ COFFEE LEVEL ── CRITICAL              Font: JetBrains ║
+║  🎯 BUGS FIXED ──── All of them           Terminal: Kitty ║
+╠══════════════════════════════════════════════════════════╣
+║  root@BLACK0X80:~# echo "All systems operational" ✓     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</p>
+
+<!--🔗 CONNECT WITH ME -->
+<h2 align="center">🔗 Connect With Me</h2>
+<p align="center">
+<a href="https://github.com/BLACK0X80"><img src="https://img.shields.io/badge/GitHub-BLACK0X80-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:black0x80@proton.me"><img src="https://img.shields.io/badge/ProtonMail-Contact_Me-FF0000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-BLACK%230x80-FF0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"/></a>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Telegram-@BLACK0X80-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-BLACK-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackTheBox-BLACK0X80-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117"/></a>
+</p>
+
+<!--🛡️THREAT LEVEL QUOTE-->
+<div align="center">
+
+> 🛡️ **SECURITY CLEARANCE: LEVEL 0**
+> 
+> ```
+> ⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀
+> ⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀
+>     "I love rumors! Facts can be so misleading,
+>      but rumors — true or false — are often 
+>      revealing."  — Hans Landa
+> ⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀
+> ```
+> 
+> *Access granted. Welcome back, operator.*
+
+</div>
+
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
@@ -448,26 +505,23 @@ fn main() {
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
+<!--🧱ANIMATED CODE LINE-->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&width=600&color=%23FF0000&height=30&duration=2000&center=true&lines=while(!(succeed%3Dtry()));+%2F%2F+never+give+up;%23define+LIFE+code_sleep_repeat();if(brain!%3DFULL)+absorb(knowledge);">
+</p>
 
-
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/footer.svg" width="100%">
-
-<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<p align="right">
-<!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Thursday, October 9th, 2025, 11:26:28 AM</b>
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
+<!--�CONTRIBUTOR IMAGE-->
 <br><p align="center">
 <a href="https://github.com/BLACK0X80/BLACK0X80/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=BLACK0X80/BLACK0X80&anon=true" />
 </a>
+</p>
+
+<!--🦶WAVE FOOTER-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer">
+
+
+
 
 <!-- 
 
