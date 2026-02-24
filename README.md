@@ -9,8 +9,10 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="240" width="370">
 
-<!--📏LINE-->
-<hr>
+<!--📏ANIMATED LINE-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <!--🎵SPOTIFY -->
 <p align="center">
@@ -39,9 +41,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/marquee.svg">
 
-<!--🎨CAPSULE WAVE DIVIDER-->
+<!--🎨ANIMATED DIVIDER-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1.5">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
@@ -83,9 +86,10 @@
   
 </div>
   
-<!--🎨CAPSULE WAVE DIVIDER-->
+<!--🎨ANIMATED DIVIDER-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1.5">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
@@ -99,11 +103,15 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/marquee2.svg">
 
-<!--📏LINE-->
-<hr>
+<!--📏ANIMATED LINE-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <!--📊💬STATTITLE-->
-<h2 align="center">🔥 PROFILE METRICS</h2>
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> PROFILE METRICS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
 
 <!--� PROFILE DETAILS CARD -->
 <p align="center">
@@ -154,11 +162,15 @@
 </p>
 </details>
 
-<!--📏LINE-->
-<hr>
+<!--📏ANIMATED LINE-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <!--😂💬JOKETITLE-->
-<h2 align="center">🃏 TECH HUMOR</h2>
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8c11-45c0afaa6b6e.gif" width="30" /> TECH HUMOR <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8c11-45c0afaa6b6e.gif" width="30" />
+</h2>
 
 <!--🤣LAUGHING / HANS LANDA-->
 <p align="center">
@@ -169,7 +181,9 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 
 <!--💬QUOTESTITLE-->
-<h2 align="center">🧠 PROGRAMMING WISDOM</h2>
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> PROGRAMMING WISDOM <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
 
 <!--🍷INTENSE / HANS LANDA-->
 <p align="center">
@@ -181,17 +195,10 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 
-<!--💬🃏MEMESTITLE-->
-<h2 align="center">🤖 DEV MEMES</h2>
-
-<!--😻OBSERVING / HANS LANDA-->
+<!--ANIMATED LINE-->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250">
-
-<!--🃏MEMEPHOTOS - REMOVED (no working free meme API) -->
-
-<!--📏LINE-->
-<hr>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 > *"You know what I say? It's the little details that are vital.*
 > *Little things make big things happen."*
@@ -199,7 +206,9 @@
 > — Hans Landa, a man who understood clean code before it existed.
 
 <!--💬FUNTITLE-->
-<h2 align="center">♟️ INTERACTIVE ZONE</h2>
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> INTERACTIVE ZONE <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" />
+</h2>
 
 <!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess --> 
  <h4 align="center">
