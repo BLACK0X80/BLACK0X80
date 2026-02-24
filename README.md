@@ -201,6 +201,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&theme=react-dark&hide_border=true&color=FF0000&line=FF0000&point=0D1117" width="100%">
 </p>
 
+<!--🌟ARCHITECT OF SEVEN MASTERPIECES -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/seven_projects.svg?v=2" alt="Architect of Seven Masterpieces" width="100%">
+</p>
+
 
 
 <!--🐍SNAKE ANIMATION / 🌐WEBSITE: https://github.com/Platane/snk -->
@@ -209,7 +214,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/cyber_snake.svg" alt="Cyber Matrix BLACK0X80 Spider" width="100%">
+  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/cyber_snake.svg?v=2" alt="Cyber Matrix BLACK0X80 Spider" width="100%">
 </p>
 
 <!--📏ANIMATED LINE-->
@@ -526,7 +531,7 @@ fn main() {
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/seven_projects.svg" alt="Architect of Seven Masterpieces">
+  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/landa_quote.svg?v=2" alt="Landa Masterpiece">
 </div>
 
 <!--🧱ANIMATED CODE LINE-->
