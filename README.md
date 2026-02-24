@@ -156,6 +156,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> PROFILE METRICS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 </h2>
 
+<!--🏆 GITHUB TROPHIES -->
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="BLACK0X80 Trophies" />
+</a>
+</p>
+
 <!--� PROFILE DETAILS CARD -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACK0X80&theme=radical" width="100%">
@@ -197,17 +204,35 @@
 </p>
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
-<h4 align="right">
-<details><summary><b>�&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;&nbsp; �&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;�</b></summary>
-<p>
+<br>
+<details>
+<summary align="center"><b><kbd>▶ CLICK TO EXPAND ADVANCED METRICS & DEEP STATS</kbd></b></summary>
+<br>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/github-metrics.svg">
+
 <!--💻ANIMATED CODING DECORATION-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500">
 </p>
 
 </details>
+
+<br>
+
+<!--🐍SNAKE ANIMATION / 🌐WEBSITE: https://github.com/Platane/snk -->
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-bf41-7d3665ce1ca6.gif" width="30" /> CONTRIBUTION GRID SNAKE <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-bf41-7d3665ce1ca6.gif" width="30" />
+</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/snake/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/snake/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/snake/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
 <!--📏ANIMATED LINE-->
 <p align="center">
