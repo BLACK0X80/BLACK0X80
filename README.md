@@ -14,11 +14,33 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!--🎵SPOTIFY -->
+<!--🎵STATUS BADGES -->
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=0D1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MOOD-WRITING_EXPLOITS-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/COFFEE-∞-FF0000?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0D1117"/></a>
+</p>
+
+<!--🎧 SPOTIFY MUSIC PLAYER -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=r8RoUOW8ma0&list=RDr8RoUOW8ma0&start_radio=1">
+  <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/spotify.svg" width="450">
+</a>
+</p>
+
+<!--👨‍💻 ANIMATED CODING -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</p>
+
+<!--🏅 LEGENDARY BADGES -->
+<p align="center">
+<img src="https://img.shields.io/badge/ARCH-Linux-FF0000?style=flat-square&logo=archlinux&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/KERNEL-Developer-FF0000?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/RING-0-FF0000?style=flat-square&logo=openbugbounty&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CVE-Hunter-FF0000?style=flat-square&logo=hackerone&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LOW-Level-FF0000?style=flat-square&logo=assemblyscript&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BARE-Metal-FF0000?style=flat-square&logo=rust&logoColor=white&labelColor=0D1117"/>
 </p>
 
 <!--🦜DIVIDER / HANS LANDA-->
@@ -33,9 +55,20 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/terminal.gif" width="400" height="400">
 
-<!--📏LINE-->
+<!--📏ANIMATED LINE-->
 <p align="center">
-<hr>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!--💻 ANIMATED TECH ICONS -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-bf41-7d3665ce1ca6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52f1adb3c67.gif" width="80">
+</p>
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
@@ -94,12 +127,17 @@
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
 
-<b>FUN FACT EVERYDAY🤔 :</b>
+<b>🤔 FUN FACT :</b>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The first computer bug was an actual bug — a moth found inside Harvard's Mark II computer in 1947. Grace Hopper logged it.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--👨‍� ANIMATED HACKER -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f50190a0f.gif" width="100">
+</p>
+
+<!--�📰RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/marquee2.svg">
 
@@ -159,7 +197,11 @@
 <p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/github-metrics.svg">
+<!--💻ANIMATED CODING DECORATION-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500">
 </p>
+
 </details>
 
 <!--📏ANIMATED LINE-->
