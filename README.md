@@ -31,7 +31,7 @@
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/marquee.svg">
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
@@ -91,7 +91,7 @@
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/marquee2.svg">
 
 <!--📏LINE-->
 <hr>
@@ -107,50 +107,46 @@
 <!--<p align="center"> -->
 <!--<a href="https://BLACK0X80.wrapped.run"><b>My GitHub Wrapped</b></a> -->
 
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/BLACK0X80/github-stats-terminal-style/master/github_stats.svg">
+<!--🌯GITHUBTERMINALSTATS💻 - REMOVED (repo does not exist) -->
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-BLACK0X80s-projects.vercel.app/api?username=BLACK0X80&show_icons=true&theme=radical&border_color=FF0000">
+<img src="https://github-readme-stats.vercel.app/api?username=BLACK0X80&show_icons=true&theme=radical&border_color=FF0000">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-BLACK0X80s-projects.vercel.app/?user=BLACK0X80&theme=radical&border=FF0000">
+<img src="https://streak-stats.demolab.com/?user=BLACK0X80&theme=radical&border=FF0000">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/BLACK0X80/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-BLACK0X80s-projects.vercel.app/api/top-langs?username=BLACK0X80&theme=radical&layout=compact&border_color=FF0000&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BLACK0X80&theme=radical&layout=compact&border_color=FF0000&langs_count=6">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-BLACK0X80s-projects.vercel.app/api/pin/?username=BLACK0X80&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=radical&border_color=FF0000">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BLACK0X80&repo=BLACK0X80&theme=radical&border_color=FF0000">
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
-<img src="https://github-profile-trophy-BLACK0X80s-projects.vercel.app/?username=BLACK0X80&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy-BLACK0X80s-projects.vercel.app/?username=BLACK0X80&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
-<!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-<p align="center">
-<a href="https://stackoverflow.com/users/14602915/BLACK0X80?tab=profile"><img src="https://github-readme-stackoverflow-BLACK0X80s-projects.vercel.app/?userID=14602915&theme=dark">
+<!--👨‍💻STACKOVERFLOW - REMOVED (no SO account) -->
   
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/BLACK0X80?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=FF0000&labelColor=0D1117&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BLACK0X80"/></a>
 <a href="https://github.com/BLACK0X80?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/BLACK0X80?color=FF0000&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BLACK0X80?color=FF0000&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=BLACK0X80&color=FF0000&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-BLACK0X80s-projects.vercel.app/graph?username=BLACK0X80&theme=react-dark&hide_border=true&color=FF0000&line=FF0000&point=0D1117" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&theme=react-dark&hide_border=true&color=FF0000&line=FF0000&point=0D1117" width="100%">
 
 <!--🐍💬SNAKETITLE-->
 <h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
@@ -179,7 +175,7 @@
 
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 <p align="center">
-<img src="https://readme-jokes-BLACK0X80s-projects.vercel.app/api" alt="Jokes Card" width="400">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 
 <!--💬QUOTESTITLE-->
 <h2 align="center">🧠 PROGRAMMING WISDOM</h2>
@@ -190,11 +186,9 @@
 
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
-<img src="https://piyu-github-readme-quotes-BLACK0X80s-projects.vercel.app/api?theme=radical&border=true">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true">
 <p align="center">
-<img src="https://github-readme-quotes-BLACK0X80s-projects.vercel.app/quote?theme=radical&layout=churchill&animation=grow_out_in&font=Architect">
-<p align="center">
-<img src="https://github-readme-daily-quotes-BLACK0X80s-projects.vercel.app/api?theme=radical&category=programming&border=true&border_color=FF0000&border_width=3&border_radius=40&font=new_rocker"><br><br>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 
 <!--💬🃏MEMESTITLE-->
 <h2 align="center">🤖 DEV MEMES</h2>
@@ -205,7 +199,7 @@
 
 <!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/BLACK0X80/Subreddit-Memes -->
 <p align="center">
-<img src="https://subreddit-memes-BLACK0X80s-projects.vercel.app/api/meme" width="400px"/>
+<img src="https://memer-new.vercel.app/" alt="Meme" width="400px"/>
 
 <!--📏LINE-->
 <hr>
