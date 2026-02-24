@@ -79,6 +79,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
+<!--⌨️ ACCESSING MAINFRAME ANIMATION-->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&width=400&color=%23FF0000&height=30&duration=2000&center=true&lines=Bypassing+security+protocols...;Establishing+secure+connection...;Welcome+to+the+mainframe.">
+</p>
+
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
 <div align="center">
@@ -425,7 +430,9 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 </h4>
 
 <!--💻CURRENTLY WORKING ON-->
-<h2 align="center">🔬 Currently Working On</h2>
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" /> CURRENTLY BUILDING <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" />
+</h2>
 <p align="center">
 <table align="center">
 <tr>
@@ -461,7 +468,9 @@ fn main() {
 </p>
 
 <!--💻SYSTEM STATUS MONITOR-->
-<h2 align="center">🖥️ System Status</h2>
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> SYSTEM STATUS <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" />
+</h2>
 <p align="center">
 
 ```properties
@@ -512,14 +521,17 @@ fn main() {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <a href="https://github.com/BLACK0X80?tab=stars"><img src="https://img.shields.io/badge/⭐_STARRED-REPOS-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <a href="https://github.com/BLACK0X80/BLACK0X80/edit/main/README.md"><img src="https://img.shields.io/badge/🔱_FORK-PROFILE-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <a href="https://github.com/settings/appearance"><img src="https://img.shields.io/badge/👀_THEME-DARK-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://komarev.com/ghpvc/?username=BLACK0X80&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS&label_color=0D1117">
       </td>
     </tr>
   </table>
