@@ -118,19 +118,13 @@
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BLACK0X80&theme=radical&layout=compact&border_color=FF0000&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&theme=radical&layout=compact&border_color=FF0000&langs_count=6">
 
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BLACK0X80&repo=BLACK0X80&theme=radical&border_color=FF0000">
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
- </div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=radical&no-bg=true&no-frame=true&row=1&column=7">
+</p>
 
 <!--👨‍💻STACKOVERFLOW - REMOVED (no SO account) -->
   
@@ -197,9 +191,9 @@
 <p align="center">
 <img src="https://media.giphy.com/media/7UThhG2VNxuXm/giphy.gif" width="250">
 
-<!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/BLACK0X80/Subreddit-Memes -->
+<!--🃏MEMEPHOTOS-->
 <p align="center">
-<img src="https://memer-new.vercel.app/" alt="Meme" width="400px"/>
+<img src="https://randommeme-five.vercel.app/" alt="Meme" width="400px"/>
 
 <!--📏LINE-->
 <hr>
