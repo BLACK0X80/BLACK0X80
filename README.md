@@ -99,52 +99,45 @@
 <!--📊💬STATTITLE-->
 <h2 align="center">🔥 PROFILE METRICS</h2>
 
-<!--🖼️OCTOCAT-->
+<!--� PROFILE DETAILS CARD -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f50190a0f.gif" width="100px" height="100px"></p>
-
-<!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
-<!--<p align="center"> -->
-<!--<a href="https://BLACK0X80.wrapped.run"><b>My GitHub Wrapped</b></a> -->
-
-<!--🌯GITHUBTERMINALSTATS💻 - REMOVED (repo does not exist) -->
-
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BLACK0X80&show_icons=true&theme=radical&border_color=FF0000">
-
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://streak-stats.demolab.com/?user=BLACK0X80&theme=radical&border=FF0000">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK0X80&theme=radical&layout=compact&border_color=FF0000&langs_count=6">
-
-
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=radical&no-bg=true&no-frame=true&row=1&column=7">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACK0X80&theme=radical" width="100%">
 </p>
 
-<!--👨‍💻STACKOVERFLOW - REMOVED (no SO account) -->
-  
-<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
+<!--📊 STATS + LANGUAGES SIDE BY SIDE -->
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BLACK0X80&theme=radical" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BLACK0X80&theme=radical" width="49%">
+</p>
+
+<!--� REPOS + PRODUCTIVE TIME -->
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BLACK0X80&theme=radical" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BLACK0X80&theme=radical&utcOffset=2" width="49%">
+</p>
+
+<!--�STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=BLACK0X80&theme=radical&border=FF0000">
+</p>
+
+<!--📛BADGES -->
 <p align="center">
   <a href="https://github.com/BLACK0X80?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=FF0000&labelColor=0D1117&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BLACK0X80"/></a>
-<a href="https://github.com/BLACK0X80?tab=followers">
+  <a href="https://github.com/BLACK0X80?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BLACK0X80?color=FF0000&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+</p>
 
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<!--👀VIEWS -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=BLACK0X80&color=FF0000&style=for-the-badge">
+</p>
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&theme=react-dark&hide_border=true&color=FF0000&line=FF0000&point=0D1117" width="100%">
 </p>
-
-<!--🐍📈SNAKEGRAPH - REMOVED (snake branch does not exist yet, needs GitHub Action to generate) -->
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <h4 align="right">
