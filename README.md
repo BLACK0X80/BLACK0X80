@@ -4,7 +4,7 @@
 
 <!--🖼️GREETING-->
 <p align="center">
-<img src="https://media.giphy.com/media/DFu7j1d1AQbaE/giphy.gif" height="240" width="370">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="240" width="370">
 
 <!--📏LINE-->
 <hr>
@@ -15,7 +15,7 @@
 
 <!--🦜DIVIDER / HANS LANDA-->
 <p align="center">
-<img src="https://media.giphy.com/media/ALBfFB6gP1evu/giphy.gif" height="150" width="250">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="150" width="250">
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
@@ -101,7 +101,7 @@
 
 <!--🖼️OCTOCAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f50190a0f.gif" width="100px" height="100px"></p>
 
 <!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
 <!--<p align="center"> -->
@@ -140,17 +140,15 @@
 <img src="https://komarev.com/ghpvc/?username=BLACK0X80&color=FF0000&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&theme=react-dark&hide_border=true&color=FF0000&line=FF0000&point=0D1117" width="100%">
+</p>
 
-<!--🐍💬SNAKETITLE-->
-<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/snake/github-snake-dark.svg" width="100%">
+<!--🐍📈SNAKEGRAPH - REMOVED (snake branch does not exist yet, needs GitHub Action to generate) -->
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <h4 align="right">
-<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+<details><summary><b>�&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;&nbsp; �&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;�&nbsp;�</b></summary>
 <p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/github-metrics.svg">
@@ -165,7 +163,7 @@
 
 <!--🤣LAUGHING / HANS LANDA-->
 <p align="center">
-<img src="https://media.giphy.com/media/UoelB2T2m2aZy/giphy.gif" width="250">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
 
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 <p align="center">
@@ -176,7 +174,7 @@
 
 <!--🍷INTENSE / HANS LANDA-->
 <p align="center">
-<img src="https://media.giphy.com/media/xTk9ZBqRk6iBscqIfu/giphy.gif" width="250">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250">
 
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
@@ -189,11 +187,9 @@
 
 <!--😻OBSERVING / HANS LANDA-->
 <p align="center">
-<img src="https://media.giphy.com/media/7UThhG2VNxuXm/giphy.gif" width="250">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250">
 
-<!--🃏MEMEPHOTOS-->
-<p align="center">
-<img src="https://randommeme-five.vercel.app/" alt="Meme" width="400px"/>
+<!--🃏MEMEPHOTOS - REMOVED (no working free meme API) -->
 
 <!--📏LINE-->
 <hr>
@@ -213,7 +209,7 @@
   </tr>
   <tr>
     <td><h5 align="center"><details>
-  <summary><h2><img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="35px" height="35px">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="40px" height="40px"></h2></summary><p>
+  <summary><h2><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50px" height="50px">&nbsp;Chess Tournament&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50px" height="50px"></h2></summary><p>
 
 <h4 align="left">
 
@@ -301,7 +297,7 @@ When you click on a link it will submit a new issue with the desired move, creat
   </tr>
   <tr>
     <td><h5 align="center"><details>
-  <summary><h2>&nbsp;&nbsp;<img src="https://media.giphy.com/media/L3LNfB3IXIUmySN67Z/giphy.gif" width="40px" height="40px">&nbsp;Connect 4 Dots&nbsp;<img src="https://media.giphy.com/media/Y0slbp1Hr4C8lUA5UG/giphy.gif" width="40px" height="40px">&nbsp;&nbsp;</h2></summary><p>
+  <summary><h2>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40px" height="40px">&nbsp;Connect 4 Dots&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40px" height="40px">&nbsp;&nbsp;</h2></summary><p>
 
 <h4 align="left">
 
@@ -361,26 +357,13 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
  </table>
       
 #
-<!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
-<h2 align="center">
-Join the Word Cloud Board :cloud: :pencil2:
+<!--WORDCLOUD - REMOVED (repo BLACK0X80/word-cloud does not exist) -->
 
-### :thought_balloon: <a href="https://github.com/BLACK0X80/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
-
-:star2: Don't like the arrangement? <a href="https://github.com/BLACK0X80/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
-
-<h3 align="center">
-📛Github Usernames📛 
-</br> 
-<img src="https://raw.githubusercontent.com/BLACK0X80/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-
-<!--📏LINE-->
-<hr>
 <p align="center">
 
 <!--🐱CAT -> HANS LANDA THEME-->
 <p align="center">
-<img src="https://media.giphy.com/media/PZysW4DEDi2fS/giphy.gif" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
 <!--🤔INTERESTTITLE-->
 <h2 align="center">⚡ TECH STACK & INTERESTS</h2>
@@ -404,9 +387,9 @@ Join the Word Cloud Board :cloud: :pencil2:
  
 <table>
   <tr>
-   <img src="https://media.giphy.com/media/jErnybNlfE1lm/giphy.gif" width="90">
+   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://media.giphy.com/media/UoelB2T2m2aZy/giphy.gif" width="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </tr>
   <tr>
     <td><p align="center"><a href="https://github.com/BLACK0X80?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
@@ -429,9 +412,9 @@ Join the Word Cloud Board :cloud: :pencil2:
 ╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
 <h4>
 
-<!--🪳ROACH&🕷️SPIDER--> 
+<!--� ROACH & 🕷️ SPIDER-->
 <p align="left">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40">
  
 ```text
 ╔═══════════════════════════════════════════════════════════════════╗
@@ -442,11 +425,11 @@ Join the Word Cloud Board :cloud: :pencil2:
 ```
 
 <p align="center">
-<img src="https://media.giphy.com/media/vhaj0GMFlIeFa/giphy.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 
 
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/footer.svg" width="100%">
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
