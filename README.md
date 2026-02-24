@@ -1,6 +1,9 @@
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=BLACK0X80&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20Programmer%20%7C%20Kernel%20Developer%20%7C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=55&descSize=18">
+</p>
+
+<!--💬TYPING SVG-->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&width=800&color=%23FF0000&height=100&duration=3000&center=true&lines=BLACK0X80;%23include+%3Cq8x.h%3E+%7C+int+main()%7BFs();%2F*uid%3D0*%2F%7D;Systems+Programmer+%7C+Kernel+Developer+%7C+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Writing+code+that+runs+closer+to+the+metal+than+your+OS">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&width=700&color=%23FF0000&height=60&duration=3000&center=true&lines=%23include+%3Cq8x.h%3E+%7C+int+main()%7BFs();%2F*uid%3D0*%2F%7D;Writing+code+that+runs+closer+to+the+metal+than+your+OS;root%40BLACK0X80%3A~%23+sudo+make+world">
 
 <!--🖼️GREETING-->
 <p align="center">
@@ -33,9 +36,9 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/marquee.svg">
 
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<!--🎨CAPSULE WAVE DIVIDER-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&customColorList=0,2,2,5,30">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1.5">
 
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
@@ -77,9 +80,9 @@
   
 </div>
   
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<!--🎨CAPSULE WAVE DIVIDER-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&customColorList=0,2,2,5,30">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1.5">
 
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
@@ -358,22 +361,50 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
-<!--🤔INTERESTTITLE-->
-<h2 align="center">⚡ TECH STACK & INTERESTS</h2>
-
-<!--🖼️🖼️INTERSTLOGOS-->
+<!--⚡TECH STACK - skillicons.dev -->
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,bash,linux,vim,neovim,docker&theme=dark" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,assembly,typescript,nodejs,redis,postgres,aws&theme=dark" />
+</p>
 </h4>
+
+<!--💻CURRENTLY WORKING ON-->
+<h2 align="center">🔬 Currently Working On</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+```c
+// BLACK-KERNEL v0.3
+#include <kernel.h>
+void init() {
+    setup_idt();
+    setup_gdt();
+    init_memory();
+    // Ring 0 achieved ✓
+}
+```
+
+</td>
+<td align="center" width="50%">
+
+```rust
+// BLAZE — Blazing Fast CLI
+fn main() {
+    let engine = Engine::new()
+        .with_threads(MAX)
+        .with_cache(true);
+    engine.ignite(); // 🔥
+}
+```
+
+</td>
+</tr>
+</table>
+</p>
 
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
