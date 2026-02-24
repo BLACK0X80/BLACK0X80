@@ -156,11 +156,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> PROFILE METRICS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 </h2>
 
-<!--🏆 GITHUB TROPHIES -->
+<!--🕵️ SYSTEM AUTHENTICATION WIDGET -->
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=BLACK0X80&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="BLACK0X80 Trophies" />
-</a>
+<img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/cyberpunk.svg" alt="System Auth" width="800">
 </p>
 
 <!--� PROFILE DETAILS CARD -->
