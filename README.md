@@ -248,7 +248,7 @@
 
 <!--JOKETITLE-->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> TECH HUMOR <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif?v=2" width="30" /> TECH HUMOR <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif?v=2" width="30" />
 </h2>
 
 <!--LAUGHING / HANS LANDA-->
