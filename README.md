@@ -1,39 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=BLACK0X80&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20Programmer%20%7C%20Kernel%20Developer%20%7C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=55&descSize=18">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=BLACK0X80&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20Programmer%20%7C%20Kernel%20Developer%20%7C%20Egypt&descAlignY=55&descSize=18">
 </p>
 
-<!--💬TYPING SVG-->
+<!--TYPING SVG-->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&width=700&color=%23FF0000&height=60&duration=3000&center=true&lines=%23include+%3Cq8x.h%3E+%7C+int+main()%7BFs();%2F*uid%3D0*%2F%7D;Writing+code+that+runs+closer+to+the+metal+than+your+OS;root%40BLACK0X80%3A~%23+sudo+make+world">
 
-<!--🖼️GREETING-->
+<!--GREETING-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="240" width="370">
 
-<!--📏ANIMATED LINE-->
+<!--ANIMATED LINE-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!--🎵STATUS BADGES -->
+<!--STATUS BADGES -->
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=0D1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MOOD-WRITING_EXPLOITS-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/COFFEE-∞-FF0000?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0D1117"/></a>
 </p>
 
-<!--🎧 SPOTIFY MUSIC PLAYER -->
+<!-- SPOTIFY MUSIC PLAYER -->
 <p align="center">
 <a href="https://www.youtube.com/watch?v=r8RoUOW8ma0&list=RDr8RoUOW8ma0&start_radio=1">
   <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/spotify.svg" width="450">
 </a>
 </p>
 
-<!--👨‍💻 ANIMATED CODING -->
+<!--‍ ANIMATED CODING -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </p>
 
-<!--🏅 LEGENDARY BADGES -->
+<!-- LEGENDARY BADGES -->
 <p align="center">
 <img src="https://img.shields.io/badge/ARCH-Linux-FF0000?style=flat-square&logo=archlinux&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/KERNEL-Developer-FF0000?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117"/>
@@ -43,44 +43,44 @@
 <img src="https://img.shields.io/badge/BARE-Metal-FF0000?style=flat-square&logo=rust&logoColor=white&labelColor=0D1117"/>
 </p>
 
-<!--🦜DIVIDER / HANS LANDA-->
+<!--DIVIDER / HANS LANDA-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="150" width="250">
 
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
+<!--SVG BANNER / WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/banner.svg"  width="600">
 
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<!--TERMINAL / WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/terminal.gif" width="400" height="400">
 
-<!--📏ANIMATED LINE-->
+<!--ANIMATED LINE-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!--💻 CYBER WEAPONS OF CHOICE -->
+<!--CYBER WEAPONS OF CHOICE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/cyber_weapons.svg?v=2" alt="Cyber Weapons Stack" width="800">
 </p>
 
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/marquee.svg">
 
-<!--🎨ANIMATED DIVIDER-->
+<!--ANIMATED DIVIDER-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!--⌨️ ACCESSING MAINFRAME ANIMATION-->
+<!--ACCESSING MAINFRAME ANIMATION-->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&width=400&color=%23FF0000&height=30&duration=2000&center=true&lines=Bypassing+security+protocols...;Establishing+secure+connection...;Welcome+to+the+mainframe.">
 </p>
 
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
+<!--ASCIIART / WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
 <div align="center">
   
@@ -89,9 +89,9 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
+@@   \/__-__\/ Programming isn't about what you know @@
+@@   (|~o.o~|)  It's about what you can figure out   @@
+@@   / \`-'/ \                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
@@ -108,7 +108,7 @@
 
 ```text
 [root@BLACK0X80 ~]# whoami
-> BLACK — Systems Programmer, Egypt 🇪🇬
+> BLACK — Systems Programmer, Egypt
 [root@BLACK0X80 ~]# cat skills.txt
 > C | C++ | Rust | Python | Assembly | TypeScript | Go | Shell
 [root@BLACK0X80 ~]# ls projects/
@@ -120,49 +120,49 @@
   
 </div>
   
-<!--🎨ANIMATED DIVIDER-->
+<!--ANIMATED DIVIDER-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
+<!--FUNFACT / https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
 
-<b>🤔 FUN FACT :</b>
+<b> FUN FACT :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first computer bug was an actual bug — a moth found inside Harvard's Mark II computer in 1947. Grace Hopper logged it.❞</i>
+<i>The first computer bug was an actual bug — a moth found inside Harvard's Mark II computer in 1947. Grace Hopper logged it.</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-<!--👨‍� ANIMATED HACKER -->
+<!--‍� ANIMATED HACKER -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f50190a0f.gif" width="100">
 </p>
 
-<!--�📰RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--�RSS / TAKE IMAGE FROM https://github.com/BLACK0X80/BLACK0X80/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/marquee2.svg">
 
-<!--📏ANIMATED LINE-->
+<!--ANIMATED LINE-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!--📊💬STATTITLE-->
+<!--STATTITLE-->
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> PROFILE METRICS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 </h2>
 
-<!--🕵️ SYSTEM AUTHENTICATION WIDGET -->
+<!--SYSTEM AUTHENTICATION WIDGET -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/cyberpunk.svg" alt="System Auth" width="800">
 </p>
 
-<!--� PROFILE DETAILS CARD -->
+<!--PROFILE DETAILS CARD -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACK0X80&theme=radical" width="100%">
 </p>
 
-<!--📊 STATS + LANGUAGES SIDE BY SIDE -->
+<!-- STATS + LANGUAGES SIDE BY SIDE -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BLACK0X80&theme=radical" width="49%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BLACK0X80&theme=radical" width="49%">
@@ -174,12 +174,12 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BLACK0X80&theme=radical&utcOffset=2" width="49%">
 </p>
 
-<!--�STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!--�STREAKSTATSGRAPH / WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=BLACK0X80&theme=radical&border=FF0000">
 </p>
 
-<!--📛BADGES -->
+<!--BADGES -->
 <p align="center">
   <a href="https://github.com/BLACK0X80?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=FF0000&labelColor=0D1117&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BLACK0X80"/></a>
@@ -187,24 +187,52 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BLACK0X80?color=FF0000&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
-<!--👀VIEWS -->
+<!--VIEWS -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=BLACK0X80&color=FF0000&style=for-the-badge">
 </p>
 
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!--ACTIVITYGRAPH / WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&theme=react-dark&hide_border=true&color=FF0000&line=FF0000&point=0D1117" width="100%">
 </p>
 
-<!--🌟ARCHITECT OF SEVEN MASTERPIECES -->
+<!--ANIMATED LINE-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!--LEETCODE STATS-->
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> LEETCODE STATS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
+
+<p align="center">
+<a href="https://leetcode.com/u/BBLACK0X80/">
+  <img src="https://leetcard.jacoblin.cool/BBLACK0X80?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600">
+</a>
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/BBLACK0X80/">
+  <img src="https://leetcard.jacoblin.cool/BBLACK0X80?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Contest Rating" width="600">
+</a>
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/BBLACK0X80/">
+  <img src="https://leetcard.jacoblin.cool/BBLACK0X80?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Activity" width="600">
+</a>
+</p>
+
+<!--ARCHITECT OF SEVEN MASTERPIECES -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/seven_projects.svg?v=2" alt="Architect of Seven Masterpieces" width="100%">
 </p>
 
 
 
-<!--🐍SNAKE ANIMATION / 🌐WEBSITE: https://github.com/Platane/snk -->
+<!--SNAKE ANIMATION / WEBSITE: https://github.com/Platane/snk -->
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-bf41-7d3665ce1ca6.gif" width="30" /> CONTRIBUTION GRID SNAKE <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-bf41-7d3665ce1ca6.gif" width="30" />
 </h2>
@@ -213,34 +241,34 @@
   <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/cyber_snake.svg?v=2" alt="Cyber Matrix BLACK0X80 Spider" width="100%">
 </p>
 
-<!--📏ANIMATED LINE-->
+<!--ANIMATED LINE-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!--😂💬JOKETITLE-->
+<!--JOKETITLE-->
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8c11-45c0afaa6b6e.gif" width="30" /> TECH HUMOR <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8c11-45c0afaa6b6e.gif" width="30" />
 </h2>
 
-<!--🤣LAUGHING / HANS LANDA-->
+<!--LAUGHING / HANS LANDA-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
 
-<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
+<!--JOKECARD / WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 
-<!--💬QUOTESTITLE-->
+<!--QUOTESTITLE-->
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> PROGRAMMING WISDOM <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 </h2>
 
-<!--🍷INTENSE / HANS LANDA-->
+<!--INTENSE / HANS LANDA-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250">
 
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
+<!--QUOTESCARD / WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true">
 <p align="center">
@@ -256,12 +284,12 @@
 >
 > — Hans Landa, a man who understood clean code before it existed.
 
-<!--💬FUNTITLE-->
+<!--FUNTITLE-->
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> INTERACTIVE ZONE <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" />
 </h2>
 
-<!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess --> 
+<!--CHESS / WEBSITE: https://github.com/marcizhu/readme-chess --> 
  <h4 align="center">
 <table>
   <tr>
@@ -349,7 +377,7 @@ When you click on a link it will submit a new issue with the desired move, creat
   </tr>
  </table>
       
-<!--CONNECTDOT🔴🟡 / 🌐WEBSITE: https://github.com/bloedboemmel/bloedboemmel --> 
+<!--CONNECTDOT / WEBSITE: https://github.com/bloedboemmel/bloedboemmel --> 
  <h4 align="center">
 <table>
   <tr>
@@ -420,18 +448,18 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 
 <p align="center">
 
-<!--🐱CAT -> HANS LANDA THEME-->
+<!--CAT -> HANS LANDA THEME-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
-<!--⚡CYBER OPERATIONAL STACK -->
+<!--CYBER OPERATIONAL STACK -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/cyber_stack.svg?v=2" alt="Cyber Operational Stack" width="800">
 </p>
 
 </h4>
 
-<!--💻CURRENTLY WORKING ON-->
+<!--CURRENTLY WORKING ON-->
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" /> CURRENTLY BUILDING <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" />
 </h2>
@@ -447,7 +475,7 @@ void init() {
     setup_idt();
     setup_gdt();
     init_memory();
-    // Ring 0 achieved ✓
+    // Ring 0 achieved 
 }
 ```
 
@@ -460,7 +488,7 @@ fn main() {
     let engine = Engine::new()
         .with_threads(MAX)
         .with_cache(true);
-    engine.ignite(); // 🔥
+    engine.ignite(); // 
 }
 ```
 
@@ -469,7 +497,7 @@ fn main() {
 </table>
 </p>
 
-<!--💻SYSTEM STATUS MONITOR-->
+<!--SYSTEM STATUS MONITOR-->
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> SYSTEM STATUS <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" />
 </h2>
@@ -477,15 +505,15 @@ fn main() {
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/system-monitor.svg" alt="Epic System Monitor" width="100%">
 </p>
 
-<!--🔗 CONNECT WITH ME -->
+<!-- CONNECT WITH ME -->
 <p align="center">
 <a href="https://github.com/BLACK0X80"><img src="https://img.shields.io/badge/GitHub-BLACK0X80-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 </p>
 
-<!--🛡️THREAT LEVEL QUOTE-->
+<!--️THREAT LEVEL QUOTE-->
 <div align="center">
 
-> 🛡️ **SECURITY CLEARANCE: LEVEL 0**
+> ️ **SECURITY CLEARANCE: LEVEL 0**
 > 
 > ```
 > ⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀
@@ -502,7 +530,7 @@ fn main() {
 
 <br>
 
-<!--🖼️⭐🔱STARRED/FORK AND THEME-->
+<!--️⭐STARRED/FORK AND THEME-->
 <div align="center">
   <table>
     <tr>
@@ -510,10 +538,10 @@ fn main() {
         <a href="https://github.com/BLACK0X80?tab=stars"><img src="https://img.shields.io/badge/⭐_STARRED-REPOS-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
       </td>
       <td align="center" width="25%">
-        <a href="https://github.com/BLACK0X80/BLACK0X80/edit/main/README.md"><img src="https://img.shields.io/badge/🔱_FORK-PROFILE-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
+        <a href="https://github.com/BLACK0X80/BLACK0X80/edit/main/README.md"><img src="https://img.shields.io/badge/_FORK-PROFILE-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
       </td>
       <td align="center" width="25%">
-        <a href="https://github.com/settings/appearance"><img src="https://img.shields.io/badge/👀_THEME-DARK-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
+        <a href="https://github.com/settings/appearance"><img src="https://img.shields.io/badge/_THEME-DARK-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
       </td>
       <td align="center" width="25%">
         <img src="https://komarev.com/ghpvc/?username=BLACK0X80&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS&label_color=0D1117">
@@ -528,7 +556,7 @@ fn main() {
   <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/landa_quote.svg?v=2" alt="Landa Masterpiece">
 </div>
 
-<!--🧱ANIMATED CODE LINE-->
+<!--ANIMATED CODE LINE-->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&width=600&color=%23FF0000&height=30&duration=2000&center=true&lines=while(!(succeed%3Dtry()));+%2F%2F+never+give+up;%23define+LIFE+code_sleep_repeat();if(brain!%3DFULL)+absorb(knowledge);">
 </p>
@@ -540,66 +568,9 @@ fn main() {
 </a>
 </p>
 
-<!--🦶WAVE FOOTER-->
+<!--WAVE FOOTER-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer">
 
 
 
 
-<!-- 
-
-𝐈𝐅 𝐘𝐎𝐔 𝐑𝐄𝐀𝐂𝐇𝐄𝐃 𝐇𝐄𝐑𝐄 (C O N G R A T S 🎉🎈🎊) 
-
-𝐂𝐇𝐄𝐂𝐊 𝐎𝐔𝐓 𝐓𝐇𝐄𝐒𝐄:
-
-
-██████╗ ███████╗ █████╗ ██╗   ██╗████████╗██╗███████╗██╗   ██╗     ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
-██╔══██╗██╔════╝██╔══██╗██║   ██║╚══██╔══╝██║██╔════╝╚██╗ ██╔╝    ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██████╔╝█████╗  ███████║██║   ██║   ██║   ██║█████╗   ╚████╔╝     ██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██╔══██╗██╔══╝  ██╔══██║██║   ██║   ██║   ██║██╔══╝    ╚██╔╝      ██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-██████╔╝███████╗██║  ██║╚██████╔╝   ██║   ██║██║        ██║       ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
-╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝╚═╝        ╚═╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝                                         
-https://github.com/rzashakeri/beautify-github-profile
-
-
- ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗     ███████╗███████╗ █████╗ ██████╗  ██████╗██╗  ██╗
-██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║
-██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ███████╗█████╗  ███████║██████╔╝██║     ███████║
-██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ╚════██║██╔══╝  ██╔══██║██╔══██╗██║     ██╔══██║
-╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ███████║███████╗██║  ██║██║  ██║╚██████╗██║  ██║
- ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-https://github.com/gennaro-tedesco/gh-s
-
-
-███████╗██╗   ██╗███╗   ██╗ ██████╗    ███████╗ ██████╗ ██████╗ ██╗  ██╗███████╗
-██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██║ ██╔╝██╔════╝
-███████╗ ╚████╔╝ ██╔██╗ ██║██║         █████╗  ██║   ██║██████╔╝█████╔╝ ███████╗
-╚════██║  ╚██╔╝  ██║╚██╗██║██║         ██╔══╝  ██║   ██║██╔══██╗██╔═██╗ ╚════██║
-███████║   ██║   ██║ ╚████║╚██████╗    ██║     ╚██████╔╝██║  ██║██║  ██╗███████║
-╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-https://github.com/wei/pull
-
-██████╗ ███████╗███████╗██╗███╗   ██╗███████╗██████╗        ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
-██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝██╔══██╗      ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██████╔╝█████╗  █████╗  ██║██╔██╗ ██║█████╗  ██║  ██║█████╗██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██╔══██╗██╔══╝  ██╔══╝  ██║██║╚██╗██║██╔══╝  ██║  ██║╚════╝██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-██║  ██║███████╗██║     ██║██║ ╚████║███████╗██████╔╝      ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚═════╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
-https://github.com/refined-github/refined-github
-
--->                                                                                                        
-
-<!--
-**BLACK0X80/BLACK0X80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
