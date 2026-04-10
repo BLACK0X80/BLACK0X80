@@ -149,7 +149,7 @@
 
 <!--STATTITLE-->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> PROFILE METRICS <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> PROFILE METRICS <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" />
 </h2>
 
 <!--SYSTEM AUTHENTICATION WIDGET -->
@@ -204,7 +204,7 @@
 
 <!--LEETCODE STATS-->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-bf41-7d3665ce1ca6.gif" width="30" /> LEETCODE STATS <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-bf41-7d3665ce1ca6.gif" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> LEETCODE STATS <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" />
 </h2>
 
 <p align="center">
@@ -234,7 +234,7 @@
 
 <!--SNAKE ANIMATION / WEBSITE: https://github.com/Platane/snk -->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" /> CONTRIBUTION GRID SNAKE <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> CONTRIBUTION GRID SNAKE <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" />
 </h2>
 
 <p align="center">
@@ -248,7 +248,7 @@
 
 <!--JOKETITLE-->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif?v=2" width="30" /> TECH HUMOR <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif?v=2" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> TECH HUMOR <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" />
 </h2>
 
 <!--LAUGHING / HANS LANDA-->
@@ -286,7 +286,7 @@
 
 <!--FUNTITLE-->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> INTERACTIVE ZONE <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> INTERACTIVE ZONE <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" />
 </h2>
 
 <!--CHESS / WEBSITE: https://github.com/marcizhu/readme-chess --> 
@@ -461,7 +461,7 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 
 <!--CURRENTLY WORKING ON-->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> CURRENTLY BUILDING <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> CURRENTLY BUILDING <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" />
 </h2>
 <p align="center">
 <table align="center">
@@ -499,7 +499,7 @@ fn main() {
 
 <!--SYSTEM STATUS MONITOR-->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8c11-45c0afaa6b6e.gif" width="30" /> SYSTEM STATUS <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8c11-45c0afaa6b6e.gif" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> SYSTEM STATUS <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" />
 </h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/BLACK0X80/BLACK0X80/main/images/system-monitor.svg" alt="Epic System Monitor" width="100%">
