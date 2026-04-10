@@ -296,7 +296,7 @@
   </tr>
   <tr>
     <td><h5 align="center"><details>
-  <summary><h2><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50px" height="50px">&nbsp;Chess Tournament&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50px" height="50px"></h2></summary><p>
+  <summary><h2>Chess Tournament</h2></summary><p>
 
 <h4 align="left">
 
@@ -384,7 +384,7 @@ When you click on a link it will submit a new issue with the desired move, creat
   </tr>
   <tr>
     <td><h5 align="center"><details>
-  <summary><h2>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40px" height="40px">&nbsp;Connect 4 Dots&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40px" height="40px">&nbsp;&nbsp;</h2></summary><p>
+  <summary><h2>Connect 4 Dots</h2></summary><p>
 
 <h4 align="left">
 
