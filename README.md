@@ -5,9 +5,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&width=700&color=%23FF0000&height=60&duration=3000&center=true&lines=%23include+%3Cq8x.h%3E+%7C+int+main()%7BFs();%2F*uid%3D0*%2F%7D;Writing+code+that+runs+closer+to+the+metal+than+your+OS;root%40BLACK0X80%3A~%23+sudo+make+world">
 
-<!--GREETING-->
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
 <!--ANIMATED LINE-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
