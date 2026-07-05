@@ -204,20 +204,20 @@
 </h2>
 
 <p align="center">
-<a href="https://leetcode.com/u/BBLACK0X80/">
-  <img src="https://leetcard.jacoblin.cool/BBLACK0X80?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600">
+<a href="https://leetcode.com/u/BLACK0X80/">
+  <img src="https://leetcard.jacoblin.cool/BLACK0X80?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600">
 </a>
 </p>
 
 <p align="center">
-<a href="https://leetcode.com/u/BBLACK0X80/">
-  <img src="https://leetcard.jacoblin.cool/BBLACK0X80?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Contest Rating" width="600">
+<a href="https://leetcode.com/u/BLACK0X80/">
+  <img src="https://leetcard.jacoblin.cool/BLACK0X80?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Contest Rating" width="600">
 </a>
 </p>
 
 <p align="center">
-<a href="https://leetcode.com/u/BBLACK0X80/">
-  <img src="https://leetcard.jacoblin.cool/BBLACK0X80?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Activity" width="600">
+<a href="https://leetcode.com/u/BLACK0X80/">
+  <img src="https://leetcard.jacoblin.cool/BLACK0X80?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Activity" width="600">
 </a>
 </p>
 
