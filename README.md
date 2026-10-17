@@ -180,19 +180,14 @@
 <!-- STARS / FOLLOWERS BADGES -->
 <p align="center">
   <a href="https://github.com/BLACK0X80?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=FF0000&labelColor=0D1117&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BLACK0X80"/></a>
+    <img alt="stars" title="My starred repos" src="https://img.shields.io/badge/STARS-VIEW_ALL-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
   <a href="https://github.com/BLACK0X80?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BLACK0X80?color=FF0000&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/BLACK0X80?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=FF0000&labelColor=0D1117"/></a>
 </p>
 
 <!-- VIEWS -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=BLACK0X80&color=FF0000&style=for-the-badge">
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLACK0X80&theme=react-dark&hide_border=true&color=FF0000&line=FF0000&point=0D1117" width="100%">
+<img src="https://hits.sh/github.com/BLACK0X80.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=FF0000&labelColor=0D1117">
 </p>
 
 <!-- ANIMATED LINE -->
@@ -529,7 +524,7 @@ fn main() {
         <a href="https://github.com/settings/appearance"><img src="https://img.shields.io/badge/THEME-DARK-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
       </td>
       <td align="center" width="25%">
-        <img src="https://komarev.com/ghpvc/?username=BLACK0X80&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117">
+        <img src="https://hits.sh/github.com/BLACK0X80.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=FF0000&labelColor=0D1117">
       </td>
     </tr>
   </table>
